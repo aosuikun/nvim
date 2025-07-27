@@ -1,5 +1,5 @@
 local options = {
-	mouse = "a", --enable mouse
+	mouse = "", --enable mouse
 	clipboard = "unnamedplus", --system clipboard integration
 	cursorline = true, --highlight line
 	ttyfast = true, --faster scrolling
