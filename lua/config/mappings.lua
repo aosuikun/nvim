@@ -8,3 +8,4 @@ map('n', '<A-.>', '<Cmd>BufferNext<CR>')
 map("n", "<leader>d", ":BufferClose<CR>")
 map("n", "<leader>D", ":BufferClose!<CR>")
 map("n", "<leader>t", ":NvimTreeToggle<CR>") --open file explorer
+map("n", "<leader>p", ":put +<CR>") --open file explorer
